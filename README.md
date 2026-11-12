@@ -3,7 +3,7 @@
 Documentation and practical work for Technical Writing topics learned in class, including LaTeX, Beamer, Doxygen, Google Docs, Git, and GitHub.
 
 <p align="center">
-  **MNIT Jaipur**
+  MNIT Jaipur
   <br>
   Department of Computer Science and Engineering
   <br>
@@ -69,7 +69,7 @@ Through this portfolio, I have developed an understanding of technical documenta
 ---
 
 <p align="center">
-  **Technical Writing Portfolio | 2026**
+  Technical Writing Portfolio | 2026
   <br>
   MNIT Jaipur
 </p>
